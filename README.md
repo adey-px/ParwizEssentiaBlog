@@ -1,4 +1,4 @@
 ### Parwiz Essential Blog
-* Backend APIs: Built with Python, Django, and DRF
-* Postman: &nbsp; Tested and validated the backend APIs
-* Frontend: Built with React and Vanilla CSS
+* Backend: Server APIs built with Python, Django, & REST framework
+* Frontend: Client user interface built with React and vanilla CSS
+* Postman: For testing and validating the backend APIs
